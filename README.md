@@ -39,7 +39,7 @@ TAs will go through:
 1. Create a new file named `exercise.sh` with Visual Studio Code. 
 2. Write `echo "Hello World"` in the file and save it.
 3. Run the file with `bash exercise.sh`. See what is the output.
-4. Now, change the content of `exercise.sh` to `echo "Hello World" > exercise.txt` in the file and save it. Run the bash script and see what is the output, as well as what is changed in the files. 
+4. Now, change the content of `exercise.sh` to `echo "Hello World" > output.txt` in the file and save it. Run the bash script and see what is the output, as well as what is changed in the files. 
 
 
 
