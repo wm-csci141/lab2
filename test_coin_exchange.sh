@@ -10,6 +10,7 @@ test_coin_exchange() {
         echo "Test with input $input passed."
     else
         echo "Test with input $input failed. Expected '$expected_output' but got '$output'."
+        exit 1
     fi
 }
 
